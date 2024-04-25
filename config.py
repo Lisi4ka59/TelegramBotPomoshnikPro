@@ -1,0 +1,2 @@
+BOT_TOKEN = '6899476240:AAEnP_mayu0TtNQjzDIpV-16y_WoGGTpcY0'
+MAIN_MENY_KEYBOARD = [["кнопка"], []]
